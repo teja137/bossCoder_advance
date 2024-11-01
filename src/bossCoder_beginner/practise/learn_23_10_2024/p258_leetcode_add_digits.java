@@ -1,10 +1,10 @@
  
- package bossCoder_beginner.practise.learn_22_10_2024.learn_23_10_2024;
+ package bossCoder_beginner.practise.learn_23_10_2024;
  
  /**
   * p258_add_digits
   */
- public class p258_add_digits {
+ public class p258_leetcode_add_digits {
 
     static int addDigits(int num){
 // we will be using divisiblity rule of 9.
