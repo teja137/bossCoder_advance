@@ -1,0 +1,3 @@
+Implementation Lab - Maths I & Maths II
+
+1. 470 - leetcode - implement_rand10_using_rand7 - 7:00
