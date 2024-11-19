@@ -9,9 +9,3 @@ and right shift formal can be like: a/2^b
 a bit is set means 1
 
 a bit is unset means 0
-
-
-revision
-
-https://leetcode.com/problems/number-of-1-bits/description/
-
